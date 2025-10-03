@@ -1,10 +1,7 @@
 # joaocesardeoliveiradasiva-sudo
 ## Olá! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Sou João Cesar , atualmente estou cursando o seguno ano da escola brigadeiro eduardo gomes no periodo da tare para noite. 
-[![Linkedin Badge]
-[![Instagram Badge](https://img.shields.io/badge/-@prof_higoor-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/prof_higoor/)](https://www.instagram.com/prof_higoor/)
-[![Email Badge](https://img.shields.io/badge/-bernardeshigor52@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardeshigor52@gmail.com)](mailto:bernardeshigor52@gmail.com)
+Sou João Cesar , atualmente estou cursando o seguno ano da escola brigadeiro eduardo gomes no periodo da tare para noite.
 
 ---
 
